@@ -1,0 +1,87 @@
+[
+  {
+    "Departamento / Subdirección": "Dirección",
+    "Área o subproceso": "Coordinación de Enlace y Gestión Técnica",
+    "Función": "Coordina y da seguimiento a los procesos institucionales."
+  },
+  {
+    "Departamento / Subdirección": "Dirección",
+    "Área o subproceso": "Auditoría Interna",
+    "Función": "Verifica que los procesos se realicen conforme a normas."
+  },
+  {
+    "Departamento / Subdirección": "Dirección",
+    "Área o subproceso": "Control de Información Documentada",
+    "Función": "Organiza y resguarda documentos oficiales."
+  },
+  {
+    "Departamento / Subdirección": "Dirección",
+    "Área o subproceso": "Planeación Institucional",
+    "Función": "Define metas y acciones para la escuela."
+  },
+  {
+    "Departamento / Subdirección": "Dirección",
+    "Área o subproceso": "Revisión por la Alta Dirección",
+    "Función": "Evalúa resultados y propone mejoras."
+  },
+  {
+    "Departamento / Subdirección": "UDI",
+    "Área o subproceso": "Préstamo de Equipo Informático",
+    "Función": "Administra el préstamo de equipo de cómputo."
+  },
+  {
+    "Departamento / Subdirección": "Subdirección Académica",
+    "Área o subproceso": "Concurso de Oposición de Cátedra",
+    "Función": "Selecciona y contrata docentes."
+  },
+  {
+    "Departamento / Subdirección": "Subdirección Académica",
+    "Área o subproceso": "Gestión de espacios y cupos",
+    "Función": "Asigna grupos, horarios y salones."
+  },
+  {
+    "Departamento / Subdirección": "Subdirección Académica",
+    "Área o subproceso": "Innovación Educativa",
+    "Función": "Impulsa mejoras en la enseñanza."
+  },
+  {
+    "Departamento / Subdirección": "Subdirección Académica",
+    "Área o subproceso": "Diseño Curricular",
+    "Función": "Actualiza planes académicos."
+  },
+  {
+    "Departamento / Subdirección": "Depto. Ing. Sistemas",
+    "Área o subproceso": "Planeación Didáctica",
+    "Función": "Organiza contenidos y actividades de las materias."
+  },
+  {
+    "Departamento / Subdirección": "Depto. Ciencias e Ing. Computación",
+    "Área o subproceso": "Prácticas de laboratorio",
+    "Función": "Coordina prácticas académicas."
+  },
+  {
+    "Departamento / Subdirección": "Gestión Escolar",
+    "Área o subproceso": "Inscripciones y reinscripciones",
+    "Función": "Administra trámites escolares."
+  },
+  {
+    "Departamento / Subdirección": "Servicios Estudiantiles",
+    "Área o subproceso": "Biblioteca y actividades",
+    "Función": "Ofrece servicios culturales, deportivos y médicos."
+  },
+  {
+    "Departamento / Subdirección": "Subdirección Administrativa",
+    "Área o subproceso": "Recursos Materiales",
+    "Función": "Administra compras y mantenimiento."
+  },
+  {
+    "Departamento / Subdirección": "Recursos Financieros",
+    "Área o subproceso": "Presupuesto",
+    "Función": "Gestiona y controla recursos financieros."
+  },
+  {
+    "Departamento / Subdirección": "Capital Humano",
+    "Área o subproceso": "Capacitación",
+    "Función": "Capacita al personal administrativo y directivo."
+  }
+]

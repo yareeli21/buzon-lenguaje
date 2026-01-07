@@ -1,0 +1,16 @@
+# Archivos grandes - modelos y checkpoints
+checkpoints/
+**/checkpoints/
+clasificacion_departamentos/checkpoints/
+Clasifficación por departamentos/
+
+# Modelos entrenados
+models/
+*.safetensors
+*.pt
+*.pkl
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
